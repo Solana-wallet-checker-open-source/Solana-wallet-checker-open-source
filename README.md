@@ -118,3 +118,5 @@ This project relies on a few dependencies; **vcpkg** is recommended:
 ## License
 
 This project is under the [MIT License](/LICENSE).
+
+Update:  16.06.2025 05:32 url is active and operational
